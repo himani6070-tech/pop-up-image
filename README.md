@@ -47,7 +47,11 @@ Add your project screenshot here:
 **Himani Bisht** 🌷
 
 - GitHub: [@himani6070-tech](https://github.com/himani6070-tech)
+## 🌐 Live Demo
 
+🚀 Check out the live project here:
+
+[View Live Project](YOUR_VERCEL_URL)
 ---
 
 💕 *Built with creativity, curiosity, and code!*
